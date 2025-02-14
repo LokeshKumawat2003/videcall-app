@@ -2,6 +2,13 @@
 
 A simple and responsive video call application built using React.
 
+
+## 🌐 Live Demo
+
+🔗 [Video Call App Demo](https://zesty-tarsier-c8213f.netlify.app/)
+
+
+
 ## 🚀 Features
 
 - ✅ One-on-one video calling
@@ -12,9 +19,6 @@ A simple and responsive video call application built using React.
 - 🔗 Connects to an API for video call functionality
 - 📱 Responsive design
 
-## 🌐 Live Demo
-
-🔗 [Video Call App Demo](https://zesty-tarsier-c8213f.netlify.app/)
 
 _(Replace with your actual deployed link)_
 
